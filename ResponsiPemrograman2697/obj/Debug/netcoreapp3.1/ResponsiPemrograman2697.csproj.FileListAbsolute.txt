@@ -1,0 +1,11 @@
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\obj\Debug\netcoreapp3.1\ResponsiPemrograman2697.csprojAssemblyReference.cache
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\obj\Debug\netcoreapp3.1\ResponsiPemrograman2697.AssemblyInfoInputs.cache
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\obj\Debug\netcoreapp3.1\ResponsiPemrograman2697.AssemblyInfo.cs
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\bin\Debug\netcoreapp3.1\ResponsiPemrograman2697.exe
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\bin\Debug\netcoreapp3.1\ResponsiPemrograman2697.deps.json
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\bin\Debug\netcoreapp3.1\ResponsiPemrograman2697.runtimeconfig.json
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\bin\Debug\netcoreapp3.1\ResponsiPemrograman2697.runtimeconfig.dev.json
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\bin\Debug\netcoreapp3.1\ResponsiPemrograman2697.dll
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\bin\Debug\netcoreapp3.1\ResponsiPemrograman2697.pdb
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\obj\Debug\netcoreapp3.1\ResponsiPemrograman2697.dll
+C:\Users\Caroline\source\repos\ResponsiPemrograman2697\ResponsiPemrograman2697\obj\Debug\netcoreapp3.1\ResponsiPemrograman2697.pdb
